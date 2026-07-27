@@ -48,6 +48,7 @@ public class FinancialProfileController {
             private BigDecimal netPay;
             private BigDecimal monthlyExpenses;
             private Integer licenseYears;
+            
             public BigDecimal getNetPay() {
                 return netPay;
             }
